@@ -1,0 +1,5 @@
+{
+  "title": "Account Registration and Login Issues",
+  "keywords": ["account", "login", "password", "forgot password", "registration", "sign up"],
+  "content": "If you're having trouble logging into your HackerRank account: 1) Make sure you're using the correct email address, 2) Check that caps lock is off, 3) Try the 'Forgot Password' link to reset your password. To create a new account: 1) Go to the signup page, 2) Enter your email and create a strong password, 3) Verify your email address. If you still cannot access your account, ensure you're using a supported browser and try clearing your cache and cookies."
+}

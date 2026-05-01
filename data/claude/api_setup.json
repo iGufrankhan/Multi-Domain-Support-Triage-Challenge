@@ -1,0 +1,5 @@
+{
+  "title": "Claude API - Getting Started",
+  "keywords": ["api", "claude", "authentication", "token", "key", "setup"],
+  "content": "To use the Claude API: 1) Create a Claude account at claude.com, 2) Generate an API key from your account settings, 3) Install the Claude SDK for your programming language, 4) Authenticate using your API key, 5) Make API calls to interact with Claude. Your API key should be kept secret and never shared publicly. Store it as an environment variable or in a secure configuration file. The API supports various models with different capabilities and pricing."
+}
